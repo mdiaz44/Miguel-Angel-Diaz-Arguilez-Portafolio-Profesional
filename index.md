@@ -1,7 +1,16 @@
----
-title: Datos BC
-layout: default
----
+----------------------------------------------------
+               DATOS BC
+
+ Plataforma de consulta de información
+ estadística de Baja California
+
+          [ Entrar ]
+
+------------------------------------
+✔ Estadísticas Sectoriales
+✔ Indicadores
+✔ Información oficial
+------------------------------------
 
 <!DOCTYPE html>
 <html lang="es">

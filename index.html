@@ -83,11 +83,15 @@ font-size:18px;
 }
 
 .grid{
-    display:grid;
-    grid-template-columns:repeat(auto-fit,minmax(260px,320px));
-    justify-content:center;
-    gap:25px;
-    margin-top:20px;
+
+display:grid;
+
+grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+
+gap:25px;
+
+margin-top:20px;
+
 }
 
 .card{
@@ -101,6 +105,12 @@ padding:35px 25px;
 transition:.3s;
 
 border:2px solid #ececec;
+
+width:100%;
+
+max-width:320px;
+
+margin:auto;
 
 }
 
